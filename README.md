@@ -1,3 +1,3 @@
 # portion
-wwe /n
-one way /n
+wwe 
+one way 
